@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Divyesh Chotaliya
+I'm a _**Full Stack Developer**_ passionate about building scalable, efficient, and user-friendly applications. I specialize in both frontend and backend development, ensuring seamless experiences across the stack.
 
-<!--
-**dvsxdev/dvsxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Frontend:** [React.js](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Next.js](https://nextjs.org/), [Alpine.js](https://alpinejs.dev/), [Inertia.js](https://inertiajs.com/)
+- **Backend:** [Laravel](https://laravel.com/), [ExpressJS](https://expressjs.com/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/)
+- **Others**: API Development, WebSockets, Git, Docker
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Develop high-performance web applications
+- Write clean, maintainable, and scalable code
+- Keep up with the latest industry trends and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced system design
+- AI integration in web development
